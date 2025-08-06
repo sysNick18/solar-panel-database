@@ -10,9 +10,9 @@ Pensamos em desenvolver um aplicativo referente a ODS 7 (Energia Limpa e Acessí
 
 # Instalação 🔨
 Para que este projeto funcione corretamente, você precisará dos seguintes softwares instalados em seu ambiente:
-⇨ **Java Development Kit (JDK):** Versão 17 ou superior (você pode verificar sua versão com `java --version`).
-⇨ **MySQL Server:** Versão 8.0 ou superior (verifique com `mysql --version` ou através do seu gerenciador de banco de dados).
-⇨ **Conector JDBC Java**: mysql-connector-j-8.4.0
+- **Java Development Kit (JDK):** Versão 17 ou superior (você pode verificar sua versão com `java --version`).
+- **MySQL Server:** Versão 8.0 ou superior (verifique com `mysql --version` ou através do seu gerenciador de banco de dados).
+- **Conector JDBC Java**: mysql-connector-j-8.4.0
 
 ### Configuração do Banco de Dados MySQL
 1.  Certifique-se de que seu servidor MySQL esteja em execução.
