@@ -20,6 +20,7 @@ Para que este projeto funcione corretamente, você precisará dos seguintes soft
     root
     ```
     (Insira sua senha quando solicitado)
+
 DATABASE db_pessoas:
 
 ```sql
